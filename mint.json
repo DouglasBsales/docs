@@ -50,13 +50,19 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "O projeto",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
+
+    {
+      "group": "Documentações",
+      "pages": [
+        "docInit"
+      ]
+    },
+
     {
       "group": "Essentials",
       "pages": [
@@ -84,8 +90,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/Leaf-Pallete",
+    "linkedin": "https://www.linkedin.com/company/leaf-pallete/posts/?feedView=all"
   }
 }
